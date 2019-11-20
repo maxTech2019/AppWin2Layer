@@ -26,6 +26,7 @@ public class Negocio
             Messagebox.Show("Registro Ya Existe","Mensaje de Error..");
         }
     }
+
     public Personas actualizarListaPersonas()
     {
         return Personas;
